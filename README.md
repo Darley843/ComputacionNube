@@ -1,3 +1,4 @@
+
 í¾¯ **Lista de algunos cÃ³digos Ãºtiles**:
 | Emoji | CÃ³digo |
 |--------|------------|
@@ -21,4 +22,5 @@ TambiÃ©n puedes copiar y pegar emojis desde cualquier pÃ¡gina o teclado emoji.
 ```md
 # íº€ CompuNube
 
-í±‹ Â¡Bienvenido a CompuNube! AquÃ­ trabajamos con **GitHub, Vagrant y computaciÃ³n en la nube**# ComputacionNube Uao
+í±‹ Â¡Bienvenido a CompuNube! AquÃ­ trabajamos con **GitHub, Vagrant y computaciÃ³n en la nube** â˜ï¸.
+
